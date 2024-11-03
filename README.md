@@ -1,2 +1,4 @@
-# Hello World
- Primeiro reposotório versionado do curso (GG)
+# Hello, World!
+ Primeiro repositório versionado do curso (GG)
+
+Repositório criado durante uma aula ao vivo do curso de Git e Github!
